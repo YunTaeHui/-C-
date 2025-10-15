@@ -47,7 +47,7 @@ int main(void)
     while (max10 > 0) {
         int digit = num / max10;
         int heart = 0;
-        while (heart < digit) {
+        while (heart < 2 * digit) {
             printf("\u2665");
             heart++;
         }
