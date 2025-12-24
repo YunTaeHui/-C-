@@ -1,0 +1,11 @@
+10
+apple
+banana
+orange
+computer
+program
+network
+window
+monitor
+keyboard
+mouse
